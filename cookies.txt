@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+britannica.com	TRUE	/	FALSE	1999999999	bcomID	6470061828515510673
+britannica.com	TRUE	/	FALSE	1999999999	SessionAuth	Zl86XZ5dD3+oU0RbTcH3xOiuU+4ZfdFJ4ESiTR2I6GVsjdPQgv7KJmasRx23kKJC
+www.britannica.com	TRUE	/	FALSE	1999999999	JSESSIONID	DA5D32949C4C1534DED750B86E612A73
+britannica.com	TRUE	/	FALSE	1999999999	subreturn	https%3A%2F%2Fwww.britannica.com%2Ftechnology%2Fcommercial-fishing%2Fadditional-info
+britannica.com	TRUE	/	FALSE	1999999999	referer	http%3A%2F%2Fwww.britannica.com%2Ftechnology%2Fcommercial-fishing%2FTypes-of-fishery
+britannica.com	TRUE	/	FALSE	1999999999	webstats	referer_page=https%3A%2F%2Fwww.britannica.com%2Ftechnology%2Fcommercial-fishing%2Fadditional-info
+britannica.com	TRUE	/	FALSE	1999999999	__mendel	%7B%27pagesViewed%27%3A15%2C%27surveyShown%27%3Atrue%2C%27topicInitialSequence%27%3A14%7D
+

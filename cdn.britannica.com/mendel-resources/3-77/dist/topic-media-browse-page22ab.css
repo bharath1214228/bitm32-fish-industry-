@@ -1,0 +1,10 @@
+:root{--100vh: 100vh}:root{--100vh: 100vh}.topic-media-browse-page .md-topic-media-related li a{display:block;font-weight:700;padding-bottom:30px;text-align:center}.topic-media-browse-page .md-topic-media-related li a img{max-height:100%;margin-bottom:5px}
+:root{--100vh: 100vh}.Flyout{background-color:var(--navy-dark);color:var(--white);left:0;position:fixed;right:0}.Flyout a:not(.btn):hover{text-decoration:underline}
+.AnonymousOrgDropdownOptions{background-color:rgba(0,0,0,0)}
+.AnonymousUserDropdownOptions{background-color:rgba(0,0,0,0)}
+.AuthenticatedOrgDropdownOptions{background-color:rgba(0,0,0,0)}
+.AuthenticatedUserDropdownOptions{background-color:rgba(0,0,0,0)}
+:root{--100vh: 100vh}.UserDropdownFlyout{top:47px;width:320px;z-index:1070}@media(max-width: 671.98px){.UserDropdownFlyout{overflow-y:auto;width:100%}}
+.VideoPlayer .jwplayer.jw-flag-aspect-mode{height:100% !important}
+
+/*# sourceMappingURL=topic-media-browse-page.css.map*/
